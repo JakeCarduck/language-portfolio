@@ -1,0 +1,1 @@
+Placeholder. I plan on using Figma to design both the UI and the actual designs and pathways for the programs, likely starting with the Python scraper.
